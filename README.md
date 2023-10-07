@@ -1,5 +1,7 @@
 # Powers of Tau vs Lagrange Basis
 
+Work dedicated to this article https://medium.com/@cryptofairy/trusted-setup-in-zksnarks-powers-of-tau-vs-lagrange-basis-7f12978f1eb9
+
 ## Results
 
 ```
